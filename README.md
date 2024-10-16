@@ -1,5 +1,5 @@
 # Fingerprint detection project
-This is a old project I made for a friend. It is designed to detect and extract regions of interest (such as fingerprints) from images using the Emgu CV library, which is a .NET wrapper for the popular OpenCV image processing library.
+This is an old project I made for a friend. It is designed to detect and extract regions of interest (such as fingerprints) from images using the Emgu CV library, which is a .NET wrapper for the popular OpenCV image processing library.
 
 ![image](https://github.com/user-attachments/assets/7f99b098-a6f4-4800-8ba6-707546773d69)
 
