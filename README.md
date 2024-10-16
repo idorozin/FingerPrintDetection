@@ -7,8 +7,8 @@ This is an old project I made for a friend. It is designed to detect and extract
 ### Fingerprint Detection
 The process uses morphological image processing techniques like **Erosion** and **Dilation** to clean noise and refine the contours of objects in the image:
 
-- **Erosion**: Shrinks bright areas, removing small noise.
-- **Dilation**: Expands bright areas, emphasizing significant shapes.
+- **Erosion**: Shrinks bright areas, emphasizing significant shapes. 
+- **Dilation**: Expands bright areas, removing small noise.
 
 These techniques help highlight the regions of interest, such as fingerprints.
 
